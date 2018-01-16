@@ -38,5 +38,5 @@ skriptet `wigconcurrentmyndigheter.py`.
 
 ## Ytterligare data
 
-* `data/MyndigheterLinks.csv` - Myndigheternas länkstrukturer.
-* `data/MyndigheterNetwork.gexf` - Myndigheternas hemsidor som länknätverk. Kan öppnas med [Gephi](https://gephi.org) 
+* `MyndigheterLinks.csv` - Myndigheternas länkstrukturer.
+* `MyndigheterNetwork.gexf` - Myndigheternas hemsidor som länknätverk. Kan öppnas med [Gephi](https://gephi.org) 
