@@ -34,3 +34,9 @@ mot de båda listorna över kommuners (`kommunURLs.txt`) och myndigheters
 
 För att snabba upp insamlingen kan man använda concurrent futures, se
 skriptet `wigconcurrentmyndigheter.py`.
+
+
+## Ytterligare data
+
+* `data/MyndigheterLinks.csv` - Myndigheternas länkstrukturer.
+* `data/MyndigheterNetwork.gexf` - Myndigheternas hemsidor som länknätverk. Kan öppnas med [Gephi](https://gephi.org) 
